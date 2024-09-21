@@ -3,6 +3,8 @@ library(ggpubr)
 library(dplyr)
 library(data.table)
 library(colourpicker)
+library(showtext)
+
 font <-
   font_files() %>% select('file', 'family', 'face') %>% filter(face == 'Bold' |
                                                                  face == 'Bold Italic' |
