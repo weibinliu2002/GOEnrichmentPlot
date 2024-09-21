@@ -1,0 +1,24 @@
+GO_Class	GO_ID	GO_Term	number_of_out
+Biological Process	GO:0006807	nitrogen compound metabolic process	8
+Biological Process	GO:0006950	response to stress	5
+Biological Process	GO:0009058	biosynthetic process	4
+Biological Process	GO:0009267	cellular response to starvation	6
+Biological Process	GO:0009987	cellular process	6
+Biological Process	GO:0010033	response to organic substance	7
+Biological Process	GO:0010038	response to metal ion	4
+Biological Process	GO:0010468	regulation of gene expression	2
+Biological Process	GO:0019538	protein metabolic process	4
+Biological Process	GO:0031667	response to nutrient levels	4
+Biological Process	GO:0032502	developmental process	3
+Cellular Component	GO:0005575	cellular component	9
+Cellular Component	GO:0005622	intracellular anatomical structure	7
+Cellular Component	GO:0005634	nucleus	3
+Cellular Component	GO:0005737	cytoplasm	5
+Cellular Component	GO:0009507	chloroplast	5
+Cellular Component	GO:0009536	plastid	5
+Cellular Component	GO:0016020	membrane	6
+Cellular Component	GO:0043226	organelle	7
+Cellular Component	GO:0043227	membrane-bounded organelle	14
+Cellular Component	GO:0043229	intracellular organelle	9
+Molecular Function	GO:0003674	molecular function	7
+Molecular Function	GO:0003824	catalytic activity	5

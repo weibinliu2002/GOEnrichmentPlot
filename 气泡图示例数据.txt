@@ -1,0 +1,21 @@
+GO_id	Genome_GO_count	Expressed_GO	Expected_expression	Status	Corrected_P	GO_desc	Richfactor
+GO:0019375	234	12	1.84335868129867	Overrepresented	5.68771474428101e-08	galactolipid biosynthetic process	0.05
+GO:0019374	4	3	0.0315104048085242	Overrepresented	1.02602824179304e-06	galactolipid metabolic process	0.75
+GO:0009247	13	4	0.102408815627704	Overrepresented	1.3737909156157e-04	glycolipid biosynthetic process	0.31
+GO:0016036	330	13	2.59960839670325	Overrepresented	2.23159269261032e-04	cellular response to phosphate starvation	0.04
+GO:0016126	363	13	2.85956923637357	Overrepresented	4.96756234927988e-04	sterol biosynthetic process	0.04
+GO:0015712	7	3	0.0551432084149174	Overrepresented	6.18815466054083e-04	hexose phosphate transport	0.43
+GO:0030643	7	3	0.0551432084149174	Overrepresented	8.19385792349752e-04	cellular phosphate ion homeostasis	0.43
+GO:0015760	8	3	0.0630208096170484	Overrepresented	8.8008606475573e-04	glucose-6-phosphate transport	0.38
+GO:0010501	9	3	0.0708984108191795	Overrepresented	0.00159562566769569	RNA secondary structure unwinding	0.33
+GO:0032508	9	3	0.0708984108191795	Overrepresented	0.00245774531322014	DNA duplex unwinding	0.33
+GO:0010109	10	3	0.0787760120213105	Overrepresented	0.00301387882304089	regulation of photosynthesis	0.3
+GO:0009643	11	3	0.0866536132234416	Overrepresented	0.00463879512605036	photosynthetic acclimation	0.27
+GO:0030397	31	4	0.244205637266063	Overrepresented	0.00532036380414829	membrane disassembly	0.13
+GO:0015714	12	3	0.0945312144255726	Overrepresented	0.00532036380414829	phosphoenolpyruvate transport	0.25
+GO:0035436	14	3	0.110286416829835	Overrepresented	0.00846292816201801	triose phosphate transmembrane transport	0.21
+GO:0009741	206	8	1.622785847639	Overrepresented	0.0100973165502609	response to brassinosteroid stimulus	0.04
+GO:0015713	18	3	0.141796821638359	Overrepresented	0.0126203744766846	phosphoglycerate transport	0.17
+GO:2000379	4	2	0.0315104048085242	Overrepresented	0.0126203744766846	positive regulation of reactive oxygen species metabolic process	0.5
+GO:0034440	54	4	0.425390464915077	Overrepresented	0.01792402404832	lipid oxidation	0.07
+GO:0046506	6	2	0.0472656072127863	Overrepresented	0.0222355117427828	sulfolipid biosynthetic process	0.33
