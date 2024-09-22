@@ -633,3 +633,4 @@ ui <- navbarPage(
   tabPanel("Help",
            includeMarkdown("README1.md"))
 )
+)
