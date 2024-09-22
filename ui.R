@@ -611,7 +611,7 @@ ui <- navbarPage(
         ),
         checkboxInput("condition32", "颜色", FALSE),
         conditionalPanel(
-          condition = "input.condition32",
+          condition = "input.condition3)",
           colourInput("color7", label = "low",
                       value = "red"),
           colourInput("color8", label = "mid",
@@ -629,8 +629,8 @@ ui <- navbarPage(
       downloadButton("downloadsvg", "Download svg-file",
       plotOutput("p1")#,width = "60%", height = "700px")
     )
-  ),
+  ),),
   tabPanel("Help",
-           includeMarkdown("README1.md"))
-)
+           includeMarkdown("README.md"))
+
 )
