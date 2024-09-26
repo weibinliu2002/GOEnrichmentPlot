@@ -1,9 +1,9 @@
-## **Help of  shinyGoEnrichment** 
+## **Help of  ShinyGoEnrichment** 
 
-&#8195;This is the help for Shiny application presented in "shinyGoEnrichment"：make lollipop plot in R with shiny .This document can solve some common problems encountered by users.
-## **What is shinyGoEnrichment?**
+&#8195;This is the help for Shiny application presented in "ShinyGoEnrichment"：make lollipop plot in R with shiny .This document can solve some common problems encountered by users.
+## **What is ShinyGoEnrichment?**
 
-&#8195;This is a tool for GoEnrichment plot. shinyGoEnrichment is good at details, 
+&#8195;This is a tool for GoEnrichment plot. ShinyGoEnrichment is good at details, 
 including the title, color choice, image size, etc. 
 it also supports you to download PDF and SVG files, and can adjust the download file size.
 
@@ -11,7 +11,7 @@ it also supports you to download PDF and SVG files, and can adjust the download 
 
 
 
-## **How to use shinyGoEnrichment?**
+## **How to use ShinyGoEnrichment?**
 
 ### **1.Select the image style**
 
