@@ -3,6 +3,7 @@ library(ggpubr)
 library(dplyr)
 library(data.table)
 library(colourpicker)
+library(markdown)
 ui<- navbarPage(title="GO Enrichment Plot",
                 tabPanel("GO Enrichment Plot",
                          sidebarPanel(
