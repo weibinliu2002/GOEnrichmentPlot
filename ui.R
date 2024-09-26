@@ -82,7 +82,7 @@ ui<- navbarPage(title="GO Enrichment Plot",
                                             fileInput("file2", label="选择文件", accept = ".txt"),
                                             downloadButton(
                                               "Download2", 
-                                              "Download example data"
+                                              "示例数据"
                                             ),
                                             br(),
                                             br(),
@@ -150,7 +150,7 @@ ui<- navbarPage(title="GO Enrichment Plot",
                                             fileInput("file3", label="选择文件", accept = ".txt"),
                                             downloadButton(
                                               "Download3", 
-                                              "Download example data"
+                                              "示例数据"
                                             ),
                                             br(),
                                             br(),

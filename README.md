@@ -1,43 +1,37 @@
-## **Help of  ShinyGoEnrichment** 
+## **ShinyGoEnrichment** 
 
-&#8195;This is the help for Shiny application presented in "ShinyGoEnrichment"：make lollipop plot in R with shiny .This document can solve some common problems encountered by users.
-## **What is ShinyGoEnrichment?**
+&#8195;这是 Shiny 应用程序 “ShinyBeeswarm” 的帮助内容，本文档可以解决用户遇到的一些常见问题。
+## **关于 ShinyGoEnrichment**
 
-&#8195;This is a tool for GoEnrichment plot. ShinyGoEnrichment is good at details, 
-including the title, color choice, image size, etc. 
-it also supports you to download PDF and SVG files, and can adjust the download file size.
+&#8195;ShinyBeeswarm是一个在线绘制棒状图、条形图、气泡图的工具。用户可以通过软件更改图形的标题，颜色，图像大小等。对于绘制的图形可以调整大小，导出为PDF格式和SVG格式。
 
+## **ShinyGoEnrichment 使用方法**
 
+### **1.选择图形格式**
 
+​&#8195;在 “图形样式” 选择框中，您可以选择自己喜欢的图像样式。
 
+### **2.上传输入数据**
+&#8195; 点击“Browse”按钮，您可以选择上传需要处理的数据。上传的数据应包含三列，第一列是名称，第二列和第三列是值。
 
-## **How to use ShinyGoEnrichment?**
+### **3. 添加图形标题** 
 
-### **1.Select the image style**
+​&#8195;您可以在 "标题" 输入框中输入您的标题。
 
-​&#8195;In the "Select the image style" selection box, you can select your favorite image style.
+### **4. 调整图形样式** 
 
-### **2.Upload input data**
-&#8195; Click the "Browse" button, you can choose to upload the data you need to process. The uploaded data should contain three columns, the first column is the name, the second column and the third column are the values.
+​&#8195;在左侧边栏中，有三个复选框按钮用于修改图像的参数。
 
-### **3. Add plot title** 
+#### &#8195;**4.1修改字体及格式**
 
-​&#8195;You can enter your title in the Title Language input box.
+​&#8195;单击“字体”按钮可更改字体类型、调整字体粗体或斜体以及调整字体大小。
 
-### **4. Adjust GoEnrichment plot** 
-
-​&#8195;In the left sidebar there are three checkbox buttons to modify the parameters of the image.
-
-#### &#8195;**4.1Adiust font style**
-
-​&#8195;;Click the "Font style" button to change the type of font and to adjust font bold or italics and to adjust font size.
-
-#### &#8195;**4.2 Choose color**
+#### &#8195;**4.2 选择颜色**
  
-​&#8195; Click the" Choose color" button ,you can choose the default color and custom color to change the color of points and line.
+​&#8195; 点击“颜色”按钮，您可以选择默认颜色和自定义颜色来更改点和线的颜色。
 
-#### &#8195;**4.3 others**
+#### &#8195;**4.3 其他**
 
-​&#8195;Click the "Others" button, you can adjust the size of the downloaded image ,the axis font inclination and legend distance.
+​&#8195;点击“其他”按钮，可以调整下载图片的大小、轴字体倾斜度和图例距离。
 
-#### &#8195; **When you upload all the data and adjust all the parameters, click the "go" button to generate the picture. Under the Download option , we provides two file download formats , respectively PDF and SVG files , users can choose to download the file format to save to the local.**
+#### &#8195; **当您上传所有数据并调整所有参数后，点击“开始”按钮生成图片。在下载选项下，我们提供了两种文件格式，分别是PDF和SVG文件，用户可以选择下载的文件格式保存到本地。**
